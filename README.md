@@ -1,21 +1,102 @@
-# 💫 About Me:
-Aspiring Machine Learning Enthusiast and Cybersecurity Enthusiast<br><br>🎓 Education: Third-year college student with a keen interest in technology, currently pursuing a degree in Computer Science.<br><br>🔍 Passions:<br>Machine Learning: Fascinated by the power of algorithms and data, I’ve dived into the world of machine learning. From neural networks to natural language processing, I’m always eager to learn and apply new techniques.<br>Cybersecurity: The ever-evolving landscape of cybersecurity intrigues me. I believe that securing our digital world is not just a responsibility but an exciting challenge.<br><br>🚀 Experience:<br>Technical Team Lead: At Linpack Club, I’ve led workshops, collaborated with industry professionals, and organized tech events. My role has honed my leadership and communication skills.<br><br>🌟 Skills:<br>Proficient in Python, C++, and Java.<br>Familiar with data structures, algorithms, and ethical hacking concepts.<br><br>🌐 Looking for Opportunities: I’m actively seeking internships where I can contribute my skills and passion. Whether it’s developing ML models or fortifying digital defenses, I’m ready to make an impact.<br><br>📬 Let’s Connect: Feel free to reach out! Let’s discuss tech, share ideas, or collaborate on exciting projects. Connect with me here on LinkedIn!
+<div align="center">
 
+  <!-- Dynamic Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Engineer;DevOps+%26+Cloud+Architect;Adobe+Hackathon+Semifinalist;Distributed+Systems+Enthusiast" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aslcj3000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-singh-aslcj3000/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavsingh25001@gmail.com) 
+  <!-- Social Icons -->
+  <p>
+    <a href="https://www.linkedin.com/in/abhinavsinghcodes">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:abhinavsingh25001@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/ironsupr">
+      <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="YOUR_PORTFOLIO_LINK_HERE">
+      <img src="https://img.shields.io/badge/Portfolio-%234285F4.svg?logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ironsupr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ironsupr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ironsupr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ironsupr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+I am a **Final-Year Computer Science Engineer** at **VIT**, specializing in architecting **Scalable Backend Systems** and **Cloud Infrastructure**. 
+
+My engineering philosophy revolves around performance and reliability. I have successfully built distributed systems handling **1,000+ concurrent users** and optimized pipelines to reduce deployment times from 30 minutes to **under 5 minutes**. I thrive in high-stakes environments, proven by securing a **Top 100 Semifinalist Rank** (among 90,000+ teams) in the **Adobe Hackathon 2025**.
+
+- 🔭 **Current Focus:** Distributed Systems, Microservices (FastAPI/Go), and Kubernetes Orchestration.
+- 💡 **Leadership:** Former **Technical Lead @ Linpack Club**, where I led 10+ developers and managed tech for events with 200+ participants.
+- 🚀 **Goal:** Seeking **Full-Time Software Engineering** roles where I can solve complex infrastructure challenges.
+
+---
+
+### 🛠 Tech Stack & Infrastructure
+
+<div align="center">
+
+**Languages**  
+<br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Backend & Distributed Systems**  
+<br>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/apache_kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+**DevOps & Cloud**  
+<br>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+
+</div>
+
+---
+
+### 📂 Featured Engineering Projects
+
+| Project | Key Metrics & Tech |
+| :--- | :--- |
+| **🏆 DocaCast (Adobe Top 100)**<br>_GenAI PDF-to-Podcast Engine_ | • **< 3s Latency:** Processed 200+ page PDFs via Async FastAPI.<br>• **99% Uptime:** Deployed on **AWS EKS** with Rolling Updates.<br>• **Tech:** FastAPI, Redis, Docker, Celery, Gemini AI. |
+| **🎓 EduGenie**<br>_AI-Powered LMS Platform_ | • **1,000+ Users:** Architected high-concurrency backend.<br>• **Sub-second Response:** Optimized SQL joins & caching.<br>• **Tech:** React, FastAPI, PostgreSQL, WebSockets. |
+| **🕸️ EchoSearch**<br>_Distributed Search Engine_ | • **45% Faster Queries:** Implemented Custom **Inverted Index** & Multithreading.<br>• **100% IaC:** Infrastructure provisioned via **Terraform** & **Ansible**.<br>• **Tech:** Python, Distributed Systems, ELK Stack, AWS. |
+
+---
+
+### 🏆 Certifications & Achievements
+
+*   **Adobe Hackathon 2025:** Top 100 Semifinalist (Ranked among 90,000+ teams).
+*   **DevOps Fundamentals:** IBM (2025).
+*   **DeepLearning.AI:** Machine Learning Specialization (Stanford).
+*   **Cloud Computing:** NPTEL (Elite Certification).
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ironsupr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironsupr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ironsupr&theme=tokyonight&hide_border=false" alt="streak graph" />
+</div>
+
+<div align="center">
+  <br>
+  ![Visitors](https://visitcount.itsvg.in/api?id=ironsupr&icon=0&color=0)
+</div>
