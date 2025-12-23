@@ -87,23 +87,15 @@ My engineering philosophy revolves around performance and reliability. I have su
 
 ---
 
-### 📊 GitHub Analytics
+📊 GitHub Stats:
+![alt text](https://github-readme-stats.vercel.app/api?username=ironsupr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ironsupr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironsupr&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="languages graph" />
-  
-  <br>
-  
-  <!-- Streak Stats (Updated to reliable domain) -->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ironsupr&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
+<br/>
+![alt text](https://github-readme-streak-stats.herokuapp.com/?user=ironsupr&theme=dark&hide_border=false)
 
-<div align="center">
-  <br>
-  <!-- Visitor Counter -->
-  <img src="https://visitcount.itsvg.in/api?id=ironsupr&icon=0&color=0" alt="Visitor Count" />
-</div>
+<br/>
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=ironsupr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+✍️ Random Dev Quote
+![alt text](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![alt text](https://visitcount.itsvg.in/api?id=ironsupr&icon=0&color=0)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
