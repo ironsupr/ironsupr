@@ -14,7 +14,7 @@
     <a href="https://github.com/ironsupr">
       <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <a href="https://ironsupr.github.io">
       <img src="https://img.shields.io/badge/Portfolio-%234285F4.svg?logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
@@ -90,13 +90,20 @@ My engineering philosophy revolves around performance and reliability. I have su
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ironsupr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironsupr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ironsupr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironsupr&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="languages graph" />
+  
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ironsupr&theme=tokyonight&hide_border=false" alt="streak graph" />
+  
+  <!-- Streak Stats (Updated to reliable domain) -->
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ironsupr&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 <div align="center">
   <br>
-  ![Visitors](https://visitcount.itsvg.in/api?id=ironsupr&icon=0&color=0)
+  <!-- Visitor Counter -->
+  <img src="https://visitcount.itsvg.in/api?id=ironsupr&icon=0&color=0" alt="Visitor Count" />
 </div>
