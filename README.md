@@ -91,18 +91,18 @@ My engineering philosophy revolves around performance and reliability. I have su
 
 <div align="center">
 
-  <!-- GitHub Stats (Using Vercel - Stable) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ironsupr&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+  <!-- GitHub Stats: Reverted to public-only mode so it loads instantly -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ironsupr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" />
   
   <br/>
 
-  <!-- Streak Stats (UPDATED: Switched to Demolab for stability) -->
+  <!-- Streak Stats: Using Demolab (Stable) -->
   <img src="https://streak-stats.demolab.com?user=ironsupr&theme=dark&hide_border=false" alt="Streak" />
 
   <br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironsupr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
+  <!-- Top Languages: Reverted to public-only mode -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironsupr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" />
 
 </div>
 
@@ -113,6 +113,6 @@ My engineering philosophy revolves around performance and reliability. I have su
   
   <br/>
   
-  <!-- Visitor Counter (UPDATED: Switched to Komarev as itsvg.in is shut down) -->
+  <!-- Visitor Counter: Komarev (Stable replacement for itsvg) -->
   <img src="https://komarev.com/ghpvc/?username=ironsupr&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
 </div>
