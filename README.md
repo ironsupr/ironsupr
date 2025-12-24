@@ -92,10 +92,8 @@ My engineering philosophy revolves around performance and reliability. I have su
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ironsupr&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-    alt="GitHub Stats"
-  />
+  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ironsupr&theme=dark)
+
 
   <br/>
 
@@ -108,6 +106,15 @@ My engineering philosophy revolves around performance and reliability. I have su
   <!-- Top Languages: Reverted to public-only mode -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironsupr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" />
 
+  <br/>
+
+
+  <img src="https://komarev.com/ghpvc/?username=ironsupr&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
+
+
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ironsupr&theme=github-dark)
+
+
 </div>
 
 ### ✍️ Random Dev Quote
@@ -117,6 +124,5 @@ My engineering philosophy revolves around performance and reliability. I have su
   
   <br/>
   
-  <!-- Visitor Counter: Komarev (Stable replacement for itsvg) -->
-  <img src="https://komarev.com/ghpvc/?username=ironsupr&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
+
 </div>
