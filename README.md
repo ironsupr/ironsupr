@@ -89,14 +89,6 @@ My engineering philosophy revolves around performance and reliability. I have su
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ironsupr&theme=dark&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ironsupr&theme=dark)
-
-</p>
-
 <div align="center">
 
   <!-- GitHub Stats -->
